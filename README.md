@@ -13,4 +13,4 @@ Assignment 1 details:
   4. fileioTest_docker_output.txt - sysbench fileio outptut
 4. Vagrantfile - vagrant file 
 5. Dockerfile - docker file for automating docker runs
-6. sysbenchTestDocker.sh - script used by docker file
+6. sysbenchTestDocker.sh - script used by docker file for automating sysbench test
